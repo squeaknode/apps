@@ -135,13 +135,13 @@
         "id": "lightning-shell",
         "name": "Lightning Shell",
         "repo": "https://github.com/ibz/lightning-shell",
-        "version": "0.1.8"
+        "version": "0.1.10"
     },
     {
         "id": "ride-the-lightning",
         "name": "Ride The Lightning",
         "repo": "https://github.com/Ride-The-Lightning/RTL",
-        "version": "0.12.1"
+        "version": "0.12.3"
     },
     {
         "id": "krystal-bull",
