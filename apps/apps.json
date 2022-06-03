@@ -39,19 +39,19 @@
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.4.4"
+        "version": "1.5.4"
     },
     {
         "id": "nextcloud",
         "name": "Nextcloud",
         "repo": "https://github.com/nextcloud/server",
-        "version": "23.0.1"
+        "version": "24.0.1"
     },
     {
         "id": "sphinx-relay",
         "name": "Sphinx Relay",
         "repo": "https://github.com/stakwork/sphinx-relay",
-        "version": "2.2.5"
+        "version": "2.2.9"
     },
     {
         "id": "squeaknode",
@@ -69,7 +69,7 @@
         "id": "thunderhub",
         "name": "ThunderHub",
         "repo": "https://github.com/apotdevin/thunderhub",
-        "version": "0.13.6"
+        "version": "0.13.13"
     },
     {
         "id": "bitfeed",
@@ -93,7 +93,7 @@
         "id": "lnmarkets",
         "name": "LN Markets",
         "repo": "https://github.com/ln-markets/umbrel",
-        "version": "1.1.5"
+        "version": "1.2.3"
     },
     {
         "id": "lnme",
