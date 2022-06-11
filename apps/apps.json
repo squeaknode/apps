@@ -63,7 +63,7 @@
         "id": "mempool",
         "name": "Mempool",
         "repo": "https://github.com/mempool/mempool",
-        "version": "2.3.1"
+        "version": "2.4.0"
     },
     {
         "id": "thunderhub",
@@ -75,7 +75,7 @@
         "id": "bitfeed",
         "name": "Bitfeed",
         "repo": "https://github.com/bitfeed-project/bitfeed",
-        "version": "2.3.2"
+        "version": "2.3.3"
     },
     {
         "id": "btc-rpc-explorer-public",
