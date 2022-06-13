@@ -75,7 +75,7 @@
         "id": "bitfeed",
         "name": "Bitfeed",
         "repo": "https://github.com/bitfeed-project/bitfeed",
-        "version": "2.3.3"
+        "version": "2.3.4"
     },
     {
         "id": "btc-rpc-explorer-public",
