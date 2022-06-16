@@ -1,81 +1,9 @@
 [
     {
-        "id": "code-server",
-        "name": "code-server",
-        "repo": "https://github.com/cdr/code-server",
-        "version": "4.4.0"
-    },
-    {
-        "id": "vaultwarden",
-        "name": "Vaultwarden",
-        "repo": "https://github.com/dani-garcia/vaultwarden",
-        "version": "1.25.0"
-    },
-    {
-        "id": "uptime-kuma",
-        "name": "Uptime Kuma",
-        "repo": "https://github.com/louislam/uptime-kuma",
-        "version": "1.16.1"
-    },
-    {
-        "id": "specter-desktop",
-        "name": "Specter Desktop",
-        "repo": "https://github.com/cryptoadvance/specter-desktop",
-        "version": "1.10.2"
-    },
-    {
-        "id": "synapse-admin",
-        "name": "Synapse Admin",
-        "repo": "https://github.com/Awesome-Technologies/synapse-admin",
-        "version": "0.8.5"
-    },
-    {
-        "id": "btc-rpc-explorer",
-        "name": "BTC RPC Explorer",
-        "repo": "https://github.com/janoside/btc-rpc-explorer",
-        "version": "3.3.0"
-    },
-    {
-        "id": "btcpay-server",
-        "name": "BTCPay Server",
-        "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.5.4"
-    },
-    {
-        "id": "nextcloud",
-        "name": "Nextcloud",
-        "repo": "https://github.com/nextcloud/server",
-        "version": "24.0.1"
-    },
-    {
-        "id": "sphinx-relay",
-        "name": "Sphinx Relay",
-        "repo": "https://github.com/stakwork/sphinx-relay",
-        "version": "2.2.9"
-    },
-    {
         "id": "squeaknode",
         "name": "Squeaknode",
         "repo": "https://github.com/squeaknode/squeaknode",
         "version": "0.3.3"
-    },
-    {
-        "id": "mempool",
-        "name": "Mempool",
-        "repo": "https://github.com/mempool/mempool",
-        "version": "2.4.0"
-    },
-    {
-        "id": "thunderhub",
-        "name": "ThunderHub",
-        "repo": "https://github.com/apotdevin/thunderhub",
-        "version": "0.13.13"
-    },
-    {
-        "id": "bitfeed",
-        "name": "Bitfeed",
-        "repo": "https://github.com/bitfeed-project/bitfeed",
-        "version": "2.3.4"
     },
     {
         "id": "btc-rpc-explorer-public",
@@ -84,10 +12,16 @@
         "version": "3.3.0"
     },
     {
-        "id": "lightning-terminal",
-        "name": "Lightning Terminal",
-        "repo": "https://github.com/lightninglabs/lightning-terminal",
-        "version": "0.6.7-alpha"
+        "id": "uptime-kuma",
+        "name": "Uptime Kuma",
+        "repo": "https://github.com/louislam/uptime-kuma",
+        "version": "1.16.1"
+    },
+    {
+        "id": "nextcloud",
+        "name": "Nextcloud",
+        "repo": "https://github.com/nextcloud/server",
+        "version": "24.0.1"
     },
     {
         "id": "lnmarkets",
@@ -96,10 +30,16 @@
         "version": "1.2.3"
     },
     {
-        "id": "lnme",
-        "name": "LnMe",
-        "repo": "https://github.com/bumi/lnme",
-        "version": "1.4.0"
+        "id": "mempool",
+        "name": "Mempool",
+        "repo": "https://github.com/mempool/mempool",
+        "version": "2.4.0"
+    },
+    {
+        "id": "sphinx-relay",
+        "name": "Sphinx Relay",
+        "repo": "https://github.com/stakwork/sphinx-relay",
+        "version": "2.2.9"
     },
     {
         "id": "usocial",
@@ -108,16 +48,88 @@
         "version": "0.1.4"
     },
     {
-        "id": "node-red",
-        "name": "Node-RED",
-        "repo": "https://github.com/node-red/node-red",
-        "version": "2.2.2"
+        "id": "lightning-shell",
+        "name": "Lightning Shell",
+        "repo": "https://github.com/ibz/lightning-shell",
+        "version": "0.1.10"
+    },
+    {
+        "id": "lightning-terminal",
+        "name": "Lightning Terminal",
+        "repo": "https://github.com/lightninglabs/lightning-terminal",
+        "version": "0.6.7-alpha"
     },
     {
         "id": "synapse",
         "name": "Synapse",
         "repo": "https://github.com/matrix-org/synapse",
         "version": "1.60.0"
+    },
+    {
+        "id": "code-server",
+        "name": "code-server",
+        "repo": "https://github.com/cdr/code-server",
+        "version": "4.4.0"
+    },
+    {
+        "id": "lnme",
+        "name": "LnMe",
+        "repo": "https://github.com/bumi/lnme",
+        "version": "1.4.0"
+    },
+    {
+        "id": "thunderhub",
+        "name": "ThunderHub",
+        "repo": "https://github.com/apotdevin/thunderhub",
+        "version": "0.13.13"
+    },
+    {
+        "id": "specter-desktop",
+        "name": "Specter Desktop",
+        "repo": "https://github.com/cryptoadvance/specter-desktop",
+        "version": "1.10.2"
+    },
+    {
+        "id": "btcpay-server",
+        "name": "BTCPay Server",
+        "repo": "https://github.com/btcpayserver/btcpayserver",
+        "version": "1.5.4"
+    },
+    {
+        "id": "ride-the-lightning",
+        "name": "Ride The Lightning",
+        "repo": "https://github.com/Ride-The-Lightning/RTL",
+        "version": "0.12.3"
+    },
+    {
+        "id": "synapse-admin",
+        "name": "Synapse Admin",
+        "repo": "https://github.com/Awesome-Technologies/synapse-admin",
+        "version": "0.8.5"
+    },
+    {
+        "id": "krystal-bull",
+        "name": "Krystal Bull",
+        "repo": "https://github.com/bitcoin-s/krystal-bull",
+        "version": "1.7.0-212-d9126650"
+    },
+    {
+        "id": "node-red",
+        "name": "Node-RED",
+        "repo": "https://github.com/node-red/node-red",
+        "version": "2.2.2"
+    },
+    {
+        "id": "bitfeed",
+        "name": "Bitfeed",
+        "repo": "https://github.com/bitfeed-project/bitfeed",
+        "version": "2.3.4"
+    },
+    {
+        "id": "btc-rpc-explorer",
+        "name": "BTC RPC Explorer",
+        "repo": "https://github.com/janoside/btc-rpc-explorer",
+        "version": "3.3.0"
     },
     {
         "id": "bluewallet",
@@ -132,21 +144,9 @@
         "version": "3.3.0"
     },
     {
-        "id": "lightning-shell",
-        "name": "Lightning Shell",
-        "repo": "https://github.com/ibz/lightning-shell",
-        "version": "0.1.10"
-    },
-    {
-        "id": "ride-the-lightning",
-        "name": "Ride The Lightning",
-        "repo": "https://github.com/Ride-The-Lightning/RTL",
-        "version": "0.12.3"
-    },
-    {
-        "id": "krystal-bull",
-        "name": "Krystal Bull",
-        "repo": "https://github.com/bitcoin-s/krystal-bull",
-        "version": "1.7.0-212-d9126650"
+        "id": "vaultwarden",
+        "name": "Vaultwarden",
+        "repo": "https://github.com/dani-garcia/vaultwarden",
+        "version": "1.25.0"
     }
 ]
