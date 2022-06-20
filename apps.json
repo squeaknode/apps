@@ -3,7 +3,7 @@
         "id": "squeaknode",
         "name": "Squeaknode",
         "repo": "https://github.com/squeaknode/squeaknode",
-        "version": "0.3.3"
+        "version": "0.3.4"
     },
     {
         "id": "btc-rpc-explorer-public",
