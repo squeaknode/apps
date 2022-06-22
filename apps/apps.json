@@ -39,7 +39,7 @@
         "id": "uptime-kuma",
         "name": "Uptime Kuma",
         "repo": "https://github.com/louislam/uptime-kuma",
-        "version": "1.16.1"
+        "version": "1.17.0"
     },
     {
         "id": "btc-rpc-explorer-public-fast",
