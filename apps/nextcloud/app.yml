@@ -6,7 +6,7 @@ version: 1
 metadata:
   category: Files
   name: Nextcloud
-  version: 24.0.1
+  version: 24.0.2
   tagline: Your personal cloud
   description: No description yet.
   developer: Nextcloud GmbH
@@ -40,7 +40,7 @@ containers:
     data:
       - data/redis:/data
   - name: web
-    image: nextcloud:24.0.1@sha256:3e67b814cf6e8d62c7a57b853f90f985f2eca54020d8b744436d97d98434a59e
+    image: nextcloud:24.0.2@sha256:59654c52a70ea8bfd7f9d5b35ed004b3966b7f8960a0825d2fe5a29096414314
     port: 80
     environment:
       MYSQL_HOST: ${APP_NEXTCLOUD_DB_IP}
