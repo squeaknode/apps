@@ -93,7 +93,7 @@
         "id": "thunderhub",
         "name": "ThunderHub",
         "repo": "https://github.com/apotdevin/thunderhub",
-        "version": "0.13.13"
+        "version": "0.13.14"
     },
     {
         "id": "synapse",
