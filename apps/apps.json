@@ -33,7 +33,7 @@
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.5.4"
+        "version": "1.6.0"
     },
     {
         "id": "uptime-kuma",
@@ -99,7 +99,7 @@
         "id": "synapse",
         "name": "Synapse",
         "repo": "https://github.com/matrix-org/synapse",
-        "version": "1.61.1"
+        "version": "1.62.0"
     },
     {
         "id": "btc-rpc-explorer",
