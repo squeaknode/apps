@@ -33,7 +33,7 @@
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.6.0"
+        "version": "1.6.1"
     },
     {
         "id": "uptime-kuma",
@@ -51,7 +51,7 @@
         "id": "squeaknode",
         "name": "Squeaknode",
         "repo": "https://github.com/squeaknode/squeaknode",
-        "version": "0.3.4"
+        "version": "0.3.5"
     },
     {
         "id": "bluewallet",
