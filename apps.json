@@ -9,7 +9,7 @@
         "id": "vaultwarden",
         "name": "Vaultwarden",
         "repo": "https://github.com/dani-garcia/vaultwarden",
-        "version": "1.25.0"
+        "version": "1.25.1"
     },
     {
         "id": "bitfeed",
