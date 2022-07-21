@@ -135,7 +135,7 @@
         "id": "synapse",
         "name": "Synapse",
         "repo": "https://github.com/matrix-org/synapse",
-        "version": "1.63.0"
+        "version": "1.63.1"
     },
     {
         "id": "vaultwarden",
