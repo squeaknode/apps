@@ -21,7 +21,7 @@
         "id": "node-red",
         "name": "Node-RED",
         "repo": "https://github.com/node-red/node-red",
-        "version": "3.0.0"
+        "version": "3.0.1"
     },
     {
         "id": "specter-desktop",
@@ -123,7 +123,7 @@
         "id": "btcpay-server",
         "name": "BTCPay Server",
         "repo": "https://github.com/btcpayserver/btcpayserver",
-        "version": "1.6.2"
+        "version": "1.6.3"
     },
     {
         "id": "lightning-shell",
