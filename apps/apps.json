@@ -87,7 +87,7 @@
         "id": "thunderhub",
         "name": "ThunderHub",
         "repo": "https://github.com/apotdevin/thunderhub",
-        "version": "0.13.14"
+        "version": "0.13.15"
     },
     {
         "id": "uptime-kuma",
@@ -141,7 +141,7 @@
         "id": "vaultwarden",
         "name": "Vaultwarden",
         "repo": "https://github.com/dani-garcia/vaultwarden",
-        "version": "1.25.1"
+        "version": "1.25.2"
     },
     {
         "id": "mempool",
